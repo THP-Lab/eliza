@@ -1,0 +1,3 @@
+[submodule "characters/niki-info/knowledge/data-analyst"]
+	path = characters/niki-info/knowledge/data-analyst
+	url = https://github.com/TheHackingProject/data-analyst
